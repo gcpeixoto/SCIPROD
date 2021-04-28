@@ -1,0 +1,32 @@
+Dear Editor-in-Chief:
+
+{IF_CO_AUTHORS}I would like to bring to your consideration the manuscript entitled {MANUSCRIPT_TITLE} in order to be appreciated by the Editorial Board of {JOURNAL_NAME}.
+
+This manuscript presents a methodology based on {METHOD} to {PURPOSE}. The current approach distinguishes from others in the following innovative points:
+
+- {POINT_1}
+- {POINT_2}
+- {POINT_3}
+- {POINT_4}
+
+We find that the subject is suitable to {JOURNAL_NAME} since it shows a modern and state-of-the-art application of {SUBJECT}. {IF_CONTINUED}
+
+The manuscript is valuable for people working at the {RESEARCH_LINE} as well as for scholars who apply {SUBJECT} to {RESEARCH_AREA}. Once published in your journal, it will bring attention to the expert community.
+
+Please, do not hesitate in contacting me if you need any further information.
+
+Yours faithfully,
+
+{CORRESPONDING_AUTHOR_NAME}
+
+
+---- 
+Variables
+----
+IF_CO_AUTHORS: On behalf of the co-authors,
+IF_CONTINUED: Moreover, we stress that the underlying background of this manuscript comes from recent papers published in renowned journals, such as doi:{DOI_1} at {JOURNAL_NAME_1}; doi:{DOI_2} at {JOURNAL_NAME_2}, and {DOI_3} at {JOURNAL_NAME_3}.
+
+
+# Template by Dr. Gustavo Oliveira
+
+

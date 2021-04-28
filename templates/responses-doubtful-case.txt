@@ -1,0 +1,9 @@
+COMMENT: I wonder why the authors can simply rely on <...>, such as <...>. I think <...> can be easily applied with minimal changes on pre-existing frameworks. Also, it might
+solve the problem that <...> is too sensitive to <...>. Also <...> can be directly used as measure of mean.
+
+RESPONSE: We are not sure on your exact question. We will argue in both ways. Please, let us know which one has the correct sense:
+
+<...>
+
+---
+Source: Taken after a real peer-review process from a paper by Dr. Gustavo Oliveira and coworkers. Text was omitted to protect the identity of the actors.

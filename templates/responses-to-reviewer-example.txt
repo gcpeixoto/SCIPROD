@@ -1,0 +1,53 @@
+RESPONSES TO EDITOR AND REVIEWERS
+
+Dear All, 
+
+First of all, we would like to thank you for the invaluable commentaries concerning the manuscript, as well as your viewpoints. Find below our responses to each of them.
+
+The authors.
+
+**INSTRUCTION TABLE**
+
+LABELS: 
+<<I>>: insertion after review
+<<D>>: deletion after review
+<<M>>: modification after review
+
+REFERENCES QUOTED FOR REVIEWER #X: 
+[RXa] link or doi
+[RXb] link or doi
+...
+[RXn] link or doi
+
+CORRECTION LOG (See line **PROPOSED CORRECTIONS per COMMENT) : 
+[C1] <<M>> Abstract was rewritten.
+[C2] <<M>> Introduction section and other texts modified to remove the "comparison" idea. 
+...
+[C7] <<I>> Explanation excerpt included.
+...
+[C10] <<M>> Figure 4 improved.
+...
+[C13] <<D>> Subsection 4.3.2 excluded.
+...
+
+Responses to Reviewer #X
+
+COMMENT 1: In this paper, authors compared <...> with <...> for the purpose of <...>. The paper is professionally written in a clear language and flows well. A reasonable amount of literature review is presented which sets the foundation well for the motivation for this study. Authors also share the codes of their algorithm which allows reproducibility of their research.
+
+My only major concerns are the following: 
+
+1) In my opinion, <...>, by theory, are an improved way of implementation of <...>, therefore an improvement in <...> is somewhat expected from my point of view. So the following question comes to the mind: are these two methods really comparable? Maybe you can compare <...> vs. <...>, or <...> vs. <...>, but comparing <...> to <...> seems a little odd to me. I hope authors can address this by maybe adding some more statements regarding the choice of these two methods for comparison.
+
+RESPONSE: We do recognise that <...> are superior to <...> and agree with the fact that compare them was not really the meaning we wished to transmit to the reader. Forgive us for the misuse of the verb "to compare", which caused misinterpretation. Our objective is to address <...> from two perspectives: i) an approach based <...>, which we find to be a scientific contribution unseen so far, and ii) an approach based on <...>.
+
+We are aware of the fact that <...> are proved to be much better than <...>. However, a little of our research history in this issue was previously concentrated on <...> and coming from a study led by Mr. <...>. Although the second approach is, by the time being, a better choice in contrast to the first one, we made the judgment that the research results provided by the <...> approach could be reported in literature as a pretended way to tackle the problem of <...>. 
+
+It is worth saying that in a past moment, <...> were essentially used for <...> purposes. Our work, instead, is concerned with a different target, which is <...>. In the end, we verified how <...> solves the problem, but we did not have in mind such a comparative intention. Hence, we believe that this point is redressed by rephrasing textual portions that transmit the idea of "comparison". See below where we have made such modifications. 
+
+For complementary rationale, see response Z to Reviewer #Y. 
+
+**PROPOSED CORRECTIONS: [C2], [C7], [C10]
+
+---
+Source: Taken after a real peer-review process from a paper by Dr. Gustavo Oliveira and coworkers. Text was omitted to protect the identity of the actors.
+

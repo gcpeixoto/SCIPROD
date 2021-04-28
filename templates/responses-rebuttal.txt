@@ -1,0 +1,12 @@
+COMMENT: I am not sure that x=0.1 is a good choice to define <...>. Can
+you show sensitivity of your <...> with respect to value of x?
+
+RESPONSE: Actually it yes, because x is the minimum number required to analyze <...> inside a given
+<...>, since with <...> we do not form <...>. <...> resulting from the <...> are useless (we cannot, a priori, fix the minimum number of <...> should have
+while making the <...>). After <...>, we <...> and keep those that
+have <..> or more <...>. Concerning the sensitivity, choosing a larger
+x only will reduce the chance to find <...>. We have chosen 0.1 to go straight to the 'extreme' case,
+which means <...>. Then, we do not see much practical advantage for application in studying the sensitivity of <...> to larger values of x.
+
+---
+Source: Taken after a real peer-review process from a paper by Dr. Gustavo Oliveira and coworkers. Text was omitted to protect the identity of the actors.

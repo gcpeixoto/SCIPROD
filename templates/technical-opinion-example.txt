@@ -1,0 +1,28 @@
+Dear authors, 
+
+Thank you for the opportunity to review your paper entitled <...>. Find below a few points and my opinion about your manuscript. 
+
+1. You have shown a coherent structure of the text. It is possible to identify the gaps, premisses, aim and conclusion. However, the text requires a full skimming to improve redundant statements, exaggerated emphasis, typos and wording style. To cite a few examples: 
+
+- too many <...> expressions. 
+- "it's hard to…" -> it is 
+- "In other word[S], due to the lack of energy sources…"
+- "has to be checked" -> change the style  
+
+2. While using a title having the expression "<...> Novel <...>", it is expected that the author brings to light a very significant achievement. As I can see, the fact of adding a few more assumptions on your equations based on a slight derivation of ideas pre-built from other authors (e.g. [Ref1]) does not boost the manuscript to a so higher level. I detect a certain degree of overestimation here. Furthermore, note that the paper lacks of surveys or other results about this topic to really fly over the meaning of "novel". An example of lots of technique employed until now is: [Ref2] 
+Recommendation: Change the title for something like <...>.
+ 
+...
+
+6. Figure 1 should be a <...>, not <...>. There are many typos in <...> and <...>. 
+
+7. Regarding results and discussion, the text is a rather difficult to understand, although the final outcomes are perceptible. In my point of view, the sensitivity of <...> tested is interesting, as with the response of an optimum <...>. That is to say, the results are consistent with the increase or decrease of <...> and the consequent higher or lower <...>. The authors should, later on, investigate a more realistic scenario. 
+
+Summary: the contribution of the authors is relevant and the outcomes are consistent, <...>. My recommendation is <...>.
+
+---
+Source: taken after a real technical report led by Dr. Gustavo Oliveira for a certain journal. 
+
+Comment: This paper was finally accepted after receiving opinions by 5 different researchers and going through 3 reviewing rounds.
+---
+
