@@ -1,0 +1,74 @@
+% general and useful commands
+
+% figure path 
+\newcommand*{\F}{figs}%
+
+% code snippets path
+\newcommand*{\SN}{snippets}%
+
+% MISC
+\newtheorem{teorema}{Teorema}[section]
+\newtheorem{definicao}{Definição}[subsection]
+\newtheorem{proposicao}{Proposição}[section]
+\newtheorem{lema}{Lema}[section]
+\newtheorem{corolario}{Corolário}[section]
+%
+\newcommand{\R}{\mathbb{R}} % R space
+\newcommand{\Rn}[1]{\mathbb{R}^{#1}} % R-n space
+\newcommand{\FF}{\mathbb{F}} % F floating-point space
+\newcommand{\Lp}[1]{\mathcal{L}^{#1}} % Lebegue spaces
+\newcommand{\CzeroInf}{\mathcal{C}_0^{\infty}} % Infinitely differentiable with compact support
+\newcommand{\Cn}[1]{\mathcal{C}^{#1}} % class C-n functions
+\newcommand{\Pn}[1]{\mathcal{P}_{#1}} % n-degree polynomial 
+\newcommand{\Czero}{\mathcal{C}_0} % continuous with compact support
+\newcommand{\DOmega}{\mathcal{D}(\Omega)} % for distributions
+\newcommand{\Dd}{\mathcal{D}} % ibidem
+\newcommand{\supp}[1]{\mathrm{supp} \left( {#1} \right)} % support
+\newcommand{\Sup}[1]{\mathrm{sup}{#1}} % supremum
+\newcommand{\ProdIntVec}[2]{\langle #1,#2 \rangle} % inner product (Physics)
+%
+\newcommand{\Int}[1]{\int_{#1}} % simple integral 
+\newcommand{\IntBnd}[1]{\int_{\partial #1}} % boundary integral
+
+% vectors and matrices
+\newcommand{\xvet}{\bm x}
+\newcommand{\vvet}{\bm v}
+\newcommand{\pvet}{\bm p}
+\newcommand{\yvet}{\bm y}
+\newcommand{\ivet}{\bm i}
+\newcommand{\Fvet}{\bm F}
+% OPERATORS 
+\newcommand{\Grad}[2]{\nabla_{#1} (#2)} % 
+
+% partial derivatives 
+\newcommand{\dd}[2]{\dfrac{d{#1}}{d{#2}}}
+\newcommand{\ddTwo}[2]{\dfrac{d^2{#1}}{d{#2}^2}}
+\newcommand{\DPartial}[2]{\dfrac{\partial{#1}}{\partial{#2}}}
+\newcommand{\DDPartial}[2]{\dfrac{{\partial}^{2}{#1}}{\partial{#2}^{2}}}
+
+% colors
+\newcommand{\Red}[1]{ {\color{red} #1}}
+\newcommand{\Green}[1]{ {\color{green} #1}}
+\newcommand{\Blue}[1]{ {\color{blue} #1}}
+\newcommand{\Magenta}[1]{ {\color{magenta} #1}}
+\newcommand{\Yellow}[1]{ {\color{yellow} #1}}
+
+% floating-point operator
+\newcommand{\fl}[1]{ fl({#1}) } 
+
+% macro to insert example text
+\newcommand{\EX}[2]{\texttt{Ver exemplo{#1}-{#2}.pdf}}
+
+% macro to control scale of large equations
+% >> used, for instance, in Newton's divided differences table
+\newcommand\scalemath[2]{\scalebox{#1}{\mbox{\ensuremath{\displaystyle #2}}}}
+
+% checkmark / xmark
+\newcommand{\cmark}{\ding{51}}%
+\newcommand{\xmark}{\ding{55}}%
+
+% trigonometry
+\renewcommand{\sin }{{\rm sen\, }}
+\renewcommand{\arcsin }{{\rm arcsen\, }}
+\renewcommand{\tan }{{\rm tg\, }}
+\renewcommand{\arccos }{{\rm arccos\, }}

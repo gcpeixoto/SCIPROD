@@ -1,0 +1,38 @@
+\usepackage[english,brazil]{babel}
+%\usepackage[utf8]{inputenc} % not needed if compiled with xelatex
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts,bm}
+\usepackage{kpfonts} % Font style
+\usepackage{listings}
+\usepackage{upgreek}
+\usepackage{booktabs}
+\usepackage{fancyvrb}
+\usepackage{multirow}
+\usepackage{makecell}
+\usepackage{hyperref}
+
+% configuration for listings
+
+\definecolor{lightgray}{rgb}{0.9,0.9,0.9}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\hypersetup{linkcolor=false}
+
+\lstset{%
+language=Python,
+backgroundcolor=\color{lightgray},
+frame=trbl,
+frameround=tttt,
+numbers=left,
+numbersep=10pt,
+keywordstyle=\bfseries \color{blue},
+commentstyle=\color{mauve},
+numberstyle=\color{red},
+stringstyle=\ttfamily,
+showstringspaces=false,
+aboveskip=3mm,
+belowskip=3mm,
+breaklines=false,
+breakatwhitespace=true,
+tabsize=3
+}
